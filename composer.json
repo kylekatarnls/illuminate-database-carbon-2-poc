@@ -1,0 +1,6 @@
+{
+    "require": {
+        "nesbot/carbon": "2.2.0 as 1.34.0",
+        "illuminate/database": "^5.7"
+    }
+}
